@@ -2,14 +2,10 @@
 title: "Salvador Gonzalez Juarez"
 image: "frank.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Salvador04.com"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "salglzjrz@lcg.unam.mx"
 output:
   postcards::trestles
 ---
