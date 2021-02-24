@@ -1,6 +1,6 @@
 ---
 title: "Salvador Gonzalez Juarez"
-image: "frank.jpg"
+image: "Foto_de_perfil_2020.jpg"
 links:
   - label: GitHub
     url: "https://github.com/Salvador04.com"
@@ -12,25 +12,13 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Salvador Gonzalez studies genomic sciences at Center of Genomic Sciences (CCG) - National Autonomous University of Mexico (UNAM). He is interested in evolutionary development, regeneration, paleogenomics and evolution. Also loves axolotls.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
-
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+**Universidad Nacional Autónoma de México** | Mor, Mex 
+Undergraduate student in Genomic Sciences
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+None
